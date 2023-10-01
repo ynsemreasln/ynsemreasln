@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Yunus Emre 
+I am freshman at Bilkent University now.
 <!--
 **ynsemreasln/ynsemreasln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
